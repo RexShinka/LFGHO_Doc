@@ -1,4 +1,4 @@
-# EthGlobal GHO hackathon Introduction
+# EthGlobal GHO Hackathon
 ## January 2024
 My name is Rex Hygate founder of DeFiSafety. I have almost four years of analyzing DeFi documentation full time and in the last six months I've been looking particularly at stable coin documentation. My project is an analysis and set of recommendations for the website documentation.
 # Documentation for DeFi
