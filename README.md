@@ -21,7 +21,8 @@ Perhaps after a successful DAO vote on a new facilitator there could be a delay 
 This section comments on the individual pages on the existing website.
 ## What is GHO? page
 This paragraph was written exclusively for experienced DeFi users. No one else will understand the text. Allow me to propose some content which would be clearer and useful to a larger audience.
-The GHO stable coin is different because it cannot be paused and does not have a blacklist. Users own their money!  This is a major discriminator of your stable coin over most that are out there.  The largest users of the DeFiSafety website are from countries where users find the banks are not on their side (Argentina, China, Russia).  Are these users your target market?  If Yes, these aspects will resonate.
+
+The GHO stable coin is different because it cannot be paused and does not have a blacklist. *Users own their money!*  This is a major discriminator of your stable coin over most that are out there.  The largest users of the DeFiSafety website are from countries where users find the banks are not on their side (Argentina, China, Russia).  Are these users your target market?  If Yes, these aspects will resonate.
 
 On the topic of no blacklist, many people from traditional finance see this as a big negative. Enemies of DeFi will use this against you.  I address this in more detail below.
 
